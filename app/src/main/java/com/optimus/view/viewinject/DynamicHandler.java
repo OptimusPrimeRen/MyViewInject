@@ -1,4 +1,4 @@
-package com.optimus.view.annotation;
+package com.optimus.view.viewinject;
 
 import java.lang.ref.WeakReference;
 import java.lang.reflect.InvocationHandler;

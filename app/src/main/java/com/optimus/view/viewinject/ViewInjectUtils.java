@@ -1,4 +1,4 @@
-package com.optimus.view.annotation;
+package com.optimus.view.viewinject;
 
 import android.app.Activity;
 import android.util.Log;

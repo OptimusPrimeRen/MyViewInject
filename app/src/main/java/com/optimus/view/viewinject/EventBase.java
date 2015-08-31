@@ -1,4 +1,4 @@
-package com.optimus.view.annotation;
+package com.optimus.view.viewinject;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
